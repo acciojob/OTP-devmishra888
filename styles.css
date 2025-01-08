@@ -1,1 +1,10 @@
 /*  your css code here. If applicable */
+.code{
+	width:20px;
+	height:20px;
+	margin: 10px ;
+	
+}
+.code:focus {
+            border-color: #4CAF50;
+        }
